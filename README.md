@@ -8,4 +8,9 @@ Permatecture professionals consider complex cultural and technical aspects of cl
 * Do We Have The Will To Make Necessary Changes For Survival?
 * Open Source Tools
 
+## Resources
+
+* Stats collector https://wiki.radxa.com/RockpiS/getting_started
+* Stats PoE hat https://wiki.radxa.com/PoE_HAT
+
 Watch social media and this page for announcements.
