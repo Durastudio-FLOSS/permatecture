@@ -1,16 +1,13 @@
-# Open Source DIY Permatecture Arduino Sensor Suite
+# Purpose - Open Source Permatecture Pro Environmental Modeling
 
-Permatecture professionals consider complex cultural and technical aspects of climate change including:
+This is a git repo for managing code. Please see <a href=="https://permatecture.pro" title="Permatecture Pro Home>permatecture.pro</a> for more.
 
-* What Does Sustainability Look Like?
-* Can We Live With A Zero Carbon Footprint?
-* What Would It Take To Leave No Trace?
-* Do We Have The Will To Make Necessary Changes For Survival?
-* Open Source Tools
+## Description - Battery powered open field system for gathering environmental data  
 
-## Resources
+### Performance specifications
 
-* Stats collector https://wiki.radxa.com/RockpiS/getting_started
-* Stats PoE hat https://wiki.radxa.com/PoE_HAT
+* TBD - in active development, really.
 
-Watch social media and this page for announcements.
+### Hardware list
+
+* TBD - ibid
