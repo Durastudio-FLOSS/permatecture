@@ -1,6 +1,6 @@
 # Purpose - Open Source Permatecture Pro Environmental Modeling
 
-This is a git repo for managing code. Please see <a href=="https://permatecture.pro" title="Permatecture Pro Home>permatecture.pro</a> for more.
+This is a git repo for managing code. Please see https://permatecture.pro  for more.
 
 ## Description - Open source system for gathering environmental data  
 
