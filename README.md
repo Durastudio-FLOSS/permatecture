@@ -1,4 +1,4 @@
-# Purpose - Open Source Permatecture Pro Environmental Modeling
+# Open Source Environmental Modeling
 
 This is a git repo for managing code. Please see https://permatecture.pro  for more.
 
