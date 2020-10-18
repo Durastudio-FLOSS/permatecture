@@ -10,4 +10,7 @@ This is a git repo for managing code. Please see <a href=="https://permatecture.
 
 ### Hardware list
 
-* TBD - ibid
+* Arduino Nano 33 BLE Sense with Headers [ABX00035]
+* VEML6075 UV Sensor Module
+* Modern Device Wind Sensor Rev. P
+* more
