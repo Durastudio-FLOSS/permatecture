@@ -1,6 +1,8 @@
 # Open Source Environmental Modeling
 
-This is a git repo for managing code. Please see <a href="https://permatecture.pro" title="Permatecture Pro Project">permatecture.pro</a>  for more.
+
+
+This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Permatecture Pro Repo Mirror">git repo</a> for managing code. Please see <a href="https://permatecture.pro" title="Permatecture Pro Project">permatecture.pro</a>  for more.
 
 ## Description - Open source system for gathering environmental data  
 
