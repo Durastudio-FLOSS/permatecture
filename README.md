@@ -15,4 +15,5 @@ This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Perm
 * Arduino Nano 33 BLE Sense with Headers [ABX00035]
 * VEML6075 UV Sensor Module
 * Modern Device Wind Sensor Rev. P
+* SBC - Raspberry Pi and Odroid ( Odroid development is purpose for current branch )
 * more
