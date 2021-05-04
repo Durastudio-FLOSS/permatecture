@@ -1,4 +1,5 @@
 ## gpio power key : J2 (2x20) Pin#29 , GPIOX.BIT0
+## See https://waldorf.waveform.org.uk/2021/the-pins-they-are-a-changin.html for changing gpio RPi and Ubuntu 21+
 setenv gpiopower "228"
 ...
 ## Add gpiopower like "setenv bootargs ${bootargs} gpiopower=${gpiopower}"
