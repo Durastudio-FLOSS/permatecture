@@ -21,6 +21,7 @@ This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Perm
 
 Monitor and collect data from sensing nodes and forward to reporting hub. Powerful low cost development platform. https://digital-loggers.com/api.html
 
+* Flash - https://www.digital-loggers.com/downloads/api/atomicpi_ubuntu_focal_lxqt_standalone_1.0.0.206.zip
 * https://www.digital-loggers.com/downloads/atomicpi_readme.txt
 * Provide 802.x wireless and bluetooth connectivity to nodes. MQTT broker.
 * Store sensor data. Forward data only when connected to known networks via ethernet.
