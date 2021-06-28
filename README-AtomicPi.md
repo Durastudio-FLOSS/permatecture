@@ -8,7 +8,9 @@ This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Perm
 
 ### Performance specifications
 
-* TBD - in active development.
+* Provide 802.x wireless and bluetooth connectivity to nodes. MQTT broker
+* Store sensor data
+* Forward data when connected to known networks
 
 ### AtomicPi SBC - Sensors Hub
 
@@ -16,8 +18,6 @@ Monitor and collect data from sensing nodes and forward to reporting hub. Powerf
 
 * Flash - https://www.digital-loggers.com/downloads/api/atomicpi_ubuntu_focal_lxqt_standalone_1.0.0.206.zip
 * https://www.digital-loggers.com/downloads/atomicpi_readme.txt
-* Provide 802.x wireless and bluetooth connectivity to nodes. MQTT broker.
-* Store sensor data. Forward data only when connected to known networks via ethernet.
 
 ### Sensor nodes hardware
 
