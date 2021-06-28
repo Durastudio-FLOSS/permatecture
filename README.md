@@ -16,3 +16,10 @@ This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Perm
 * VEML6075 UV Sensor Module
 * Modern Device Wind Sensor Rev. P
 * more
+
+### AtomicPi SBC Sensors Node
+
+Monitor and collect data from sensing nodes and forward to reporting hub.
+
+* Provide 802.x wireless and bluetooth connectivity to nodes. MQTT broker.
+* Store sensor data. Forward data only when connected to known networks via ethernet.
