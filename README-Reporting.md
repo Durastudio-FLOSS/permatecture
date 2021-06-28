@@ -1,4 +1,4 @@
-### Reporting Feature(s)
+# Reporting Feature(s)
 
 ## Performance Specifications
 
