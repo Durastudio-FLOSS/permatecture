@@ -8,13 +8,13 @@ This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Perm
 
 ### Performance specifications
 
-* Solar power
-* In ground battery storage
-* Theft resistant
-* Wireless MQTT system
-* Respond in interesting ways when people present.
+* Solar powered
+* Provide in ground battery storage
+* Should resist theft
+* Provide Wireless MQTT system
+* Respond in interesting ways to peoplet
 * Meet functional lighting requirements and extend Permatecture Sensor platform
-* Coordinated systemic proximity responses
+* Coordinated systemic responses
 
 ### Hardware
 
