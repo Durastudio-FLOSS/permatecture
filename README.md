@@ -8,12 +8,18 @@ This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Perm
 
 ### Performance specifications
 
-* TBD - in active development, really.
+* Solar power
+* In ground battery storage
+* Theft resistant
+* Wireless MQTT system
+* Respond in interesting ways when people present.
+* Meet functional lighting requirements and extend Permatecture Sensor platform
+* Coordinated systemic proximity responses
 
-### Hardware list
+### Hardware
 
-* Arduino Nano 33 BLE Sense with Headers [ABX00035]
-* Arduino HVAC Hub MKR 1010 Wifi with headers
-* VEML6075 UV Sensor Module
-* Modern Device Wind Sensor Rev. P
-* more
+* Colored LED lighting control
+* Weather hardened enclosure
+* Nodes - Arduino Nano 33 BLE Sense with Headers [ABX00035]
+* Bridge to Hub - MKR 1010 Wifi with headers
+* IR sensors provide movement and pattern recognition
