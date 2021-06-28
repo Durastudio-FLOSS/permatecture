@@ -8,16 +8,9 @@ This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Perm
 
 ### Performance specifications
 
-* TBD - in active development, really.
+* TBD - in active development.
 
-### Hardware list
-
-* Arduino Nano 33 BLE Sense with Headers [ABX00035]
-* VEML6075 UV Sensor Module
-* Modern Device Wind Sensor Rev. P
-* more
-
-### AtomicPi SBC - Sensors
+### AtomicPi SBC - Sensors Hub
 
 Monitor and collect data from sensing nodes and forward to reporting hub. Powerful low cost development platform. https://digital-loggers.com/api.html
 
@@ -25,3 +18,10 @@ Monitor and collect data from sensing nodes and forward to reporting hub. Powerf
 * https://www.digital-loggers.com/downloads/atomicpi_readme.txt
 * Provide 802.x wireless and bluetooth connectivity to nodes. MQTT broker.
 * Store sensor data. Forward data only when connected to known networks via ethernet.
+
+### Sensor nodes hardware
+
+* Arduino Nano 33 BLE Sense with Headers [ABX00035]
+* VEML6075 UV Sensor Module
+* Modern Device Wind Sensor Rev. P
+
