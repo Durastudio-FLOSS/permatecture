@@ -10,7 +10,8 @@ This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Perm
 
 * Provide 802.x wireless and bluetooth connectivity to nodes. MQTT broker
 * Store sensor data
-* Forward data when connected to known networks
+* Mobility supported with pivate bridge via
+* Forward data only to know network(s)
 
 ### AtomicPi SBC - Sensors Hub
 
