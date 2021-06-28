@@ -10,7 +10,7 @@ This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Perm
 
 * Outdoor off-grid, solar powered
 * Outdoor fixtures to provide in-ground battery storage
-* Outdoor Should resist theft
+* Outdoor should resist theft
 * Connect and extend wireless MQTT system
 * Respond in interesting ways to peoplet
 * Indoor and outdoor systemcs meet functional lighting requirements
