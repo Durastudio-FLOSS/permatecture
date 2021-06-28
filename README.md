@@ -17,7 +17,7 @@ This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Perm
 * Modern Device Wind Sensor Rev. P
 * more
 
-### AtomicPi SBC Sensors Node
+### AtomicPi SBC - Sensors
 
 Monitor and collect data from sensing nodes and forward to reporting hub. Powerful low cost development platform. https://digital-loggers.com/api.html
 
