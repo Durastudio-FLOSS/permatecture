@@ -12,7 +12,7 @@ This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Perm
 * Outdoor fixtures to provide in-ground battery storage
 * Outdoor should resist theft
 * Connect and extend wireless MQTT system
-* Respond in interesting ways to peoplet
+* Respond in interesting ways to people
 * Indoor and outdoor systemcs meet functional lighting requirements
 * Extend Permatecture Sensor platform
 * Coordinated systemic responses
