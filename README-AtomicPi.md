@@ -32,4 +32,4 @@ Monitor and collect data from sensing nodes and forward to reporting hub. Powerf
 ### Software ( see install helper scripts in AtomicPi folder)
 
 * HostAPD - https://w1.fi/hostapd/
-* Bridge-Utuls - https://launchpad.net/bridge-utils
+* Bridge-Utils - https://launchpad.net/bridge-utils
