@@ -29,3 +29,8 @@ Monitor and collect data from sensing nodes and forward to reporting hub. Powerf
 * VEML6075 UV Sensor Module
 * Modern Device Wind Sensor Rev. P
 
+### Software ( see install helper scripts in AtomicPi folder)
+
+* HostAPD - https://w1.fi/hostapd/
+* Bridge-Utils - https://launchpad.net/bridge-utils
+* Udhcpd - https://udhcp.busybox.net/
