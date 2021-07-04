@@ -8,10 +8,12 @@ This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Perm
 
 ### Performance specifications
 
+* Hub and Spoke Hybrid Mesh network topology for reliable data collection and system coordination
 * Provide 802.x wireless and bluetooth connectivity to nodes. MQTT broker
-* Store sensor data
-* Mobility supported with private vpn
+* Collect and store sensor data
+* Secure mobility supported with private vpn
 * Forward data only to known network(s)
+* Autodiscovery wherever possible.
 
 ### AtomicPi SBC - Sensors Hub
 
@@ -23,7 +25,7 @@ Monitor and collect data from sensing nodes and forward to reporting hub. Powerf
 ### Sensor nodes
 
 * Coordinator - Arduino MKR 1010 Wifi with headers
-* Sensor Node Arduino Nano 33 BLE Sense with Headers [ABX00035]
+* Sensor Node - Arduino Nano 33 BLE Sense with Headers [ABX00035]
 * VEML6075 UV Sensor Module
 * Modern Device Wind Sensor Rev. P
 
