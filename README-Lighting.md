@@ -13,15 +13,16 @@ This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Perm
 * Outdoor should resist theft
 * Connect and extend wireless MQTT system
 * Respond in interesting ways to people
-* Indoor and outdoor systemcs meet functional lighting requirements
+* Indoor and outdoor systems meet functional lighting requirements
 * Extend Permatecture Sensor platform
 * Coordinated systemic responses
 
 ### Hardware
 
-* Color LED lighting control
-* Weather hardened enclosure
-* Nodes - Arduino Nano 33 BLE Sense with Headers [ABX00035]
+* Color or white LED
+* Weatherproof hardened enclosure
+* Sensor Nodes - Arduino Nano 33 BLE Sense with Headers [ABX00035]
 * Bridge to Hub - MKR 1010 Wifi with headers
+* Seeduino XIAO samd base lighting node ( sensor(s) optional )
 * IR sensors provide movement and pattern recognition
 * Integrated security camera
