@@ -33,3 +33,4 @@ Monitor and collect data from sensing nodes and forward to reporting hub. Powerf
 
 * HostAPD - https://w1.fi/hostapd/
 * Bridge-Utils - https://launchpad.net/bridge-utils
+* Udhcpd - https://udhcp.busybox.net/
