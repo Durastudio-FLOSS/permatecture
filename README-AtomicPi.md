@@ -20,9 +20,10 @@ Monitor and collect data from sensing nodes and forward to reporting hub. Powerf
 * Flash - https://www.digital-loggers.com/downloads/api/atomicpi_ubuntu_focal_lxqt_standalone_1.0.0.206.zip
 * https://www.digital-loggers.com/downloads/atomicpi_readme.txt
 
-### Sensor nodes hardware
+### Sensor nodes
 
-* Arduino Nano 33 BLE Sense with Headers [ABX00035]
+* Coordinator - Arduino MKR 1010 Wifi with headers
+* Sensor Node Arduino Nano 33 BLE Sense with Headers [ABX00035]
 * VEML6075 UV Sensor Module
 * Modern Device Wind Sensor Rev. P
 
