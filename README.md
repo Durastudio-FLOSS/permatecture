@@ -21,7 +21,7 @@ Provide suite of hardware and software resources for Permatecture Pro realated p
 * Linux SBC general computing fanless server(s) shall provide monitoring, reporting and MQTT broker services. 
 * Odroid-C4 embedded linux media servers, provide mesh control, futureproofing and load balanced web services.
 * Arduino Nano 33 BLE Sense with Headers [ABX00035]
-* Arduino HVAC Hub MKR 1010 Wifi with headers
+* Arduino Hub MKR 1010 Wifi with headers
 * VEML6075 UV Sensor Module
 * Modern Device Wind Sensor Rev. P
 * Seem more on website https://permatecture.pro
