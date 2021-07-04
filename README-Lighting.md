@@ -15,7 +15,7 @@ This is a <a href="https://github.com/Durastudio-FLOSS/permatecture" title="Perm
 * Respond in interesting ways to people
 * Indoor and outdoor systems meet functional lighting requirements
 * Extend Permatecture Sensor platform
-* Coordinated systemic responses
+* Coordinated semantic responses
 
 ### Hardware
 
