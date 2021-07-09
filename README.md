@@ -28,10 +28,10 @@ Provide suite of hardware and software resources for Permatecture Pro realated p
 
 ### Software
 
-* Git
-* Sed
-* Zabbix Server
-* Plex
-* Volumio
-* Snapcast
+* <a href="https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F" title="git what izit">Git<a/> - versioning and more
+* <a href="https://www.gnu.org/software/sed/manual/sed.html#Introduction" title="Sed">Sed<a/> - stream editor
+* Zabbix Server - hardware and services monitoring
+* Plex - media server
+* Volumio - music player
+* Snapcast - sonos replacement
 * See more on website https://permatecture.pro 
