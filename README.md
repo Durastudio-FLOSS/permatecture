@@ -24,7 +24,7 @@ Provide suite of hardware and software resources for Permatecture Pro realated p
 * Arduino Hub MKR 1010 Wifi with headers
 * VEML6075 UV Sensor Module
 * Modern Device Wind Sensor Rev. P
-* Seem more on website https://permatecture.pro
+* See more on website https://permatecture.pro
 
 ### Software
 
